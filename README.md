@@ -18,8 +18,10 @@ const alvarodevs = {
 };
 ```
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alvarodevs&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvarodevs&layout=compact)](https://github.com/Alvarodevs/github-readme-stats)
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+ <img class="img" style="margin-right: 30px" src="https://github-readme-stats.vercel.app/api?username=Alvarodevs&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvarodevs&layout=compact" />
+</div>
 
 <h3 align="center">:point_down:Find me out on :point_down:</h3>
 <p align="center">
