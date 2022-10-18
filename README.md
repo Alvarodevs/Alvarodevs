@@ -19,7 +19,7 @@ const alvarodevs = {
 ```
 
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
- <img class="img" style="margin-right: 30px" src="https://github-readme-stats.vercel.app/api?username=Alvarodevs&show_icons=true&theme=radical" />
+ <img class="img" style="margin-right: 20px" src="https://github-readme-stats.vercel.app/api?username=Alvarodevs&show_icons=true&theme=radical" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvarodevs&layout=compact" />
 </div>
 
