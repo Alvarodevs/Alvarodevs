@@ -35,6 +35,7 @@ const alvarodevs = {
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alvarodevs&repo=Food-A-Week---Final-project)](https://github.com/Alvarodevs/Food-A-Week---Final-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alvarodevs&repo=hotel_miranda)](https://github.com/Alvarodevs/hotel_miranda)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alvarodevs&repo=hotel-miranda-react)](https://github.com/Alvarodevs/hotel-miranda-react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alvarodevs&repo=pickture_photo_app)](https://github.com/Alvarodevs/pickture_photo_app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alvarodevs&repo=front-end-test-monkeys)](https://github.com/Alvarodevs/front-end-test-monkeys)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alvarodevs&repo=fullstack-training)](https://github.com/Alvarodevs/fullstack-training)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alvarodevs&repo=vue_test)](https://github.com/Alvarodevs/vue_test)
+
