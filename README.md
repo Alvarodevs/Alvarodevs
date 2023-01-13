@@ -18,7 +18,7 @@ const alvarodevs = {
 };
 ```
 
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
+<div align="center">
  <img class="img" style="margin-right: 20px" src="https://github-stats-alpha.vercel.app/api?username=Alvarodevs&cc=000&tc=fff&ic=fff&bc=000" />
 </div>
 
