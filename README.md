@@ -19,7 +19,7 @@ const alvarodevs = {
 ```
 
 <div align="center">
- <img class="img" style="margin-right: 20px" src="https://github-stats-alpha.vercel.app/api?username=Alvarodevs&cc=000&tc=fff&ic=fff&bc=000" />
+ <img class="img" style="margin-right: 20px" src="https://github-readme-stats.vercel.app/api?username=Alvarodevs&show_icons=true&theme=radical" />
 </div>
 
 <h3 align="center">:point_down:Find me out on :point_down:</h3>
@@ -36,5 +36,5 @@ const alvarodevs = {
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alvarodevs&repo=hotel-miranda-react)](https://github.com/Alvarodevs/hotel-miranda-react)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alvarodevs&repo=pickture_photo_app)](https://github.com/Alvarodevs/pickture_photo_app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alvarodevs&repo=front-end-test-monkeys)](https://github.com/Alvarodevs/front-end-test-monkeys)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alvarodevs&repo=fullstack-training)](https://github.com/Alvarodevs/fullstack-training)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alvarodevs&layout=compact&repo=fullstack-training)](https://github.com/Alvarodevs/fullstack-training)
 
